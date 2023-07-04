@@ -1,8 +1,9 @@
 ## About Me
 Computer Science and Engineering Student at Sabanci University Istanbul/Turkey.
 
-<p>I have Experince in C++, JavaScript, Python and Java Programming languages.</p>
-<text>I worked with React.js, Vue.js, OpenCV, Natural Language Processing with Python and Machine Learning.</text>
+⚡I have Experince in C++, JavaScript, Python and Java Programming languages.</br>
+🔭 I worked with React.js, Vue.js, OpenCV, Natural Language Processing with Python and Machine Learning.</br>
+🌱 I am currently learning Vue.js and Rust.</br>
 
 <!--
 **KayraAksit/KayraAksit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
