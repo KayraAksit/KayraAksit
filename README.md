@@ -1,9 +1,11 @@
 ## About Me
-Computer Science and Engineering Student at Sabanci University Istanbul/Turkey.
+Computer Science and Engineering Student at Sabanci University Istanbul/Turkey. Double Majoring in Industrial Engineering.
 
-⚡I have Experince in C++, JavaScript, Python and Java Programming languages.</br>
-🔭 I worked with React.js, Vue.js, OpenCV, Natural Language Processing with Python and Machine Learning.</br>
-🌱 I am currently learning Vue.js and Rust.</br>
+⚡ I have Experince in C++, Python, C#, JavaScript and Java Programming languages.</br>
+👯 I am familiar with Image processing with OpenCV, Natural Language Processing with Python and Machine Learning.</br>
+🔭 I worked with React.js and Vue.js in frontend development.</br>
+🌱 I made projects using Unity Game Engine.</br>
+⚡ I am familiar with Microsoft Hololens Development in Unity.</br>
 
 <!--
 **KayraAksit/KayraAksit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
